@@ -1,1 +1,10 @@
 Am learning git for the first time.it's fun learning git.
+
+Day2
+
+something has changed!
+Step one: Install giHub
+step two:Configure git
+stepp three: Create a folder
+step four: proceed to gitHub and create a repository
+step five: 
